@@ -1,5 +1,5 @@
 # gueg
-gueg(Great User Email Generator) is a python utility for generating user and email address worlists based on naming patterns.
+gueg(Great Username and Email Generator) is a python utility for generating user and email address worlists based on naming patterns.
 
 Use case:
 Say you found an email address `jdoe@example.local` for the user John Doe, you know that the pattern is First Name Letter + Surname + @example.local. The command used to generate  a wordlist with a similar pattern would be:
